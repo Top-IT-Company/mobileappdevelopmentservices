@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://top-it-company.github.io/mobileappdevelopmentservices/sitemap.xml
